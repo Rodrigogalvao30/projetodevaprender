@@ -1,4 +1,4 @@
 ** Curso de GIT e Github **
 
 - git init - comando para iniciar um repositório 
-- 
+- git status 
