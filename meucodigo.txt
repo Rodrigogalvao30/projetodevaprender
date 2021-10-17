@@ -1,1 +1,4 @@
-TESTE GIT GITHUB
+** Curso de GIT e Github **
+
+- git init - comando para iniciar um repositório 
+- 
